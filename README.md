@@ -1,6 +1,6 @@
 #  Bloody7-Software
 
-Selamat datang di repositori resmi **Bloody7-Software**! Script AutoHotkey (AHK) andalan untuk memaksimalkan performa dan kenyamanan bermain game dengan fitur otomatisasi makro yang mulus dan aman.
+Selamat datang di repositori resmi **Bloody7-Software**! Script andalan untuk memaksimalkan performa dan kenyamanan bermain game dengan fitur otomatisasi makro yang mulus dan aman.
 
 ---
 
