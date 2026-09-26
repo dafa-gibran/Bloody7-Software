@@ -18,7 +18,7 @@ Selamat datang di repositori resmi **Bloody7-Software**! Script andalan untuk me
 ### 📥 Cara Menggunakan
 1. Pastikan kamu sudah menginstal aplikasi **Bloody7-Software** di PC kamu.
 2. Run administrator
-3. Dapatkan *License Key* resmi dari *owner* atau administrator.(https://discord.gg/btSgvEHag)UNTUK MENDAPATKAN KEY DM Owner:dafaids.
+3. Dapatkan *License Key* resmi dari *owner* atau administrator.(https://discord.gg/btSgvEHag) Untuk MENDAPATKAN KEY DM Owner:dafaids.
 4. Jalankan skrip, masukkan *key* kamu saat diminta, dan nikmati kemudahannya!!
    
 
