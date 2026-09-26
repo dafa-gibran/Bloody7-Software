@@ -5,7 +5,7 @@ Selamat datang di repositori resmi **Bloody7-Software**! Script andalan untuk me
 ---
 
 ### ✨ Kenapa Pakai Bloody7?
-URL DOWNLOAD:https://github.com/dafa-gibran/bloody7v1.4/releases/tag/Bloody7-Software
+*  **URL DOWNLOAD:https://github.com/dafa-gibran/bloody7v1.4/releases/tag/Bloody7-Software**
 *  **Makro Senjata Akurat:** Dilengkapi berbagai profil senjata pilihan (seperti T77, SS3, SG, hingga AWP) yang bikin kontrol recoil jadi lebih stabil.
 * Maqro ini sama persis seperti bloody7 sungguhan(mouse)Software asli nya!!
 *  **Sistem Lisensi Aman (Key System):** Menggunakan sistem verifikasi *key* unik untuk setiap pengguna agar akun dan aksesmu tetap eksklusif.
