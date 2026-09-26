@@ -24,4 +24,4 @@ Selamat datang di repositori resmi **Bloody7-Software**! Script AutoHotkey (AHK)
 ---
 
 ### 📌 Catatan Penting
-*Tool ini murni dibuat untuk kebutuhan utilitas otomatisasi dan peningkatan kenyamanan bermain (*quality of life*). Script ini tidak memodifikasi file game, tidak menyuntikkan *cheat* berbahaya, dan murni berbasis makro AHK.*
+*Tool ini murni dibuat untuk kebutuhan utilitas otomatisasi dan peningkatan kenyamanan bermain (*quality of life*). Script ini tidak memodifikasi file game, tidak menyuntikkan *cheat* berbahaya, dan murni berbasis makro C++.*
