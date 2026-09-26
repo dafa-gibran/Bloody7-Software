@@ -18,7 +18,7 @@ Selamat datang di repositori resmi **Bloody7-Software**! Script AutoHotkey (AHK)
 1. Pastikan kamu sudah menginstal aplikasi **Bloody7-Software** di PC kamu.
 2. Run administrator
 3. Dapatkan *License Key* resmi dari *owner* atau administrator.
-4. Jalankan skrip, masukkan *key* kamu saat diminta, dan nikmati kemudahannya!
+4. Jalankan skrip, masukkan *key* kamu saat diminta, dan nikmati kemudahannya!!
    
 
 ---
