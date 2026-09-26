@@ -6,7 +6,7 @@ Selamat datang di repositori resmi **Bloody7-Software**! Script AutoHotkey (AHK)
 
 ### ✨ Kenapa Pakai Bloody7?
 *  **Makro Senjata Akurat:** Dilengkapi berbagai profil senjata pilihan (seperti T77, SS3, SG, hingga AWP) yang bikin kontrol recoil jadi lebih stabil.
-* Maqro ini sama persini seperti bloody7 sungguhan(mouse)Software asli nya!!
+* Maqro ini sama persis seperti bloody7 sungguhan(mouse)Software asli nya!!
 *  **Sistem Lisensi Aman (Key System):** Menggunakan sistem verifikasi *key* unik untuk setiap pengguna agar akun dan aksesmu tetap eksklusif.
 *  **Proteksi HWID Anti-Bypass:** Lisensi terkunci otomatis ke perangkat PC kamu, jadi aman dari pembagian *key* ilegal oleh pihak lain.
 *  **Auto-Update Tanpa Ribet:** Script akan otomatis mengecek dan memperbarui versinya secara berkala, memastikan kamu selalu pakai versi terbaru.
