@@ -1,16 +1,16 @@
-# 🔥 Bloody7-Software
+#  Bloody7-Software
 
 Selamat datang di repositori resmi **Bloody7-Software**! Script AutoHotkey (AHK) andalan untuk memaksimalkan performa dan kenyamanan bermain game dengan fitur otomatisasi makro yang mulus dan aman.
 
 ---
 
 ### ✨ Kenapa Pakai Bloody7?
-* 🎯 **Makro Senjata Akurat:** Dilengkapi berbagai profil senjata pilihan (seperti T77, SS3, SG, hingga AWP) yang bikin kontrol recoil jadi lebih stabil.
-* 🎯Maqro ini sama persini seperti bloody7 sungguhan(mouse)Software asli nya!!
-* 🛡️ **Sistem Lisensi Aman (Key System):** Menggunakan sistem verifikasi *key* unik untuk setiap pengguna agar akun dan aksesmu tetap eksklusif.
-* 💻 **Proteksi HWID Anti-Bypass:** Lisensi terkunci otomatis ke perangkat PC kamu, jadi aman dari pembagian *key* ilegal oleh pihak lain.
-* 🔄 **Auto-Update Tanpa Ribet:** Script akan otomatis mengecek dan memperbarui versinya secara berkala, memastikan kamu selalu pakai versi terbaru.
-* 🛡️ **101% Tanpa Inject (Aman):** Berjalan murni sebagai utilitas makro Bloody7Software tanpa memodifikasi, merusak, atau menyuntikkan file ke dalam sistem game.
+*  **Makro Senjata Akurat:** Dilengkapi berbagai profil senjata pilihan (seperti T77, SS3, SG, hingga AWP) yang bikin kontrol recoil jadi lebih stabil.
+* Maqro ini sama persini seperti bloody7 sungguhan(mouse)Software asli nya!!
+*  **Sistem Lisensi Aman (Key System):** Menggunakan sistem verifikasi *key* unik untuk setiap pengguna agar akun dan aksesmu tetap eksklusif.
+*  **Proteksi HWID Anti-Bypass:** Lisensi terkunci otomatis ke perangkat PC kamu, jadi aman dari pembagian *key* ilegal oleh pihak lain.
+*  **Auto-Update Tanpa Ribet:** Script akan otomatis mengecek dan memperbarui versinya secara berkala, memastikan kamu selalu pakai versi terbaru.
+*  **101% Tanpa Inject (Aman):** Berjalan murni sebagai utilitas makro Bloody7Software tanpa memodifikasi, merusak, atau menyuntikkan file ke dalam sistem game.
 
 ---
 
