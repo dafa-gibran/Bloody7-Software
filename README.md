@@ -16,6 +16,7 @@ Selamat datang di repositori resmi **Bloody7-Software**! Script andalan untuk me
 ---
 
 ### 📥 Cara Menggunakan
+1.**Download file bloody7.exe https://github.com/dafa-gibran/bloody7v1.4/releases/tag/Bloody7-Software**
 1. Pastikan kamu sudah menginstal aplikasi **Bloody7-Software** di PC kamu.
 2. Run administrator
 3. Dapatkan *License Key* resmi dari *owner* atau administrator.(https://discord.gg/btSgvEHag) Untuk MENDAPATKAN KEY DM Owner:dafaids.
